@@ -5,7 +5,7 @@ The resulution was proposed by our team: Functionarios.
 
 ## Members:
 	- Èric Sánchez ()
-	- Alejandro Donaire ()
+	- Alejandro Donaire (aledonairesa@gmail.com)
 	- Pau Ventura (pau.ventura.rodriguez@gmail.com)
 
 This year the competition aimed to solve a Supply Chain problem where each product followed the path: Port -> Logistic Hub -> Local Distribution center.
