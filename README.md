@@ -1,7 +1,7 @@
 # Datathon FME 2022 Resolution
 
 This is our resolution for the Datathon that took part in the UPC the 12th and 13th of November 2022.\
-The resulution was proposed by our team: Functionarios. 
+The resolution was proposed by our team: Functionarios. 
 
 ## Members:
 	- Èric Sánchez (ericsanlopez@gmail.com)
