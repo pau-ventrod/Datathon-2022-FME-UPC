@@ -4,7 +4,7 @@ This is our resolution for the Datathon that took part in the UPC the 12th and 1
 The resulution was proposed by our team: Functionarios. 
 
 ## Members:
-	- Èric Sánchez ()
+	- Èric Sánchez (ericsanlopez@gmail.com)
 	- Alejandro Donaire (aledonairesa@gmail.com)
 	- Pau Ventura (pau.ventura.rodriguez@gmail.com)
 
